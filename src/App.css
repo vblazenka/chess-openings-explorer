@@ -1,3 +1,23 @@
+body {
+  background-color: #C9CDD3;
+}
+
+html, body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.c-layout {
+  grid-template-columns: 300px 1fr 600px !important;
+}
+
+.c-nav {
+  max-width: 350px !important;
+}
+
+.c-info {
+  max-width: 600px !important;
+}
+
 .App {
   text-align: center;
 }
